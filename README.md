@@ -76,9 +76,3 @@ step 2: change the value variable according to vault and save it (warnings: do n
 ## Reference
 
 1) [datadog secret managment](https://docs.datadoghq.com/agent/guide/secrets-management/?tab=linux)
-
-2) [secret vault](https://entrustdatacardcorp.sharepoint.com/sites/HyTrust-Engineering/_layouts/15/stream.aspx?id=%2Fsites%2FHyTrust%2DEngineering%2FShared%20Documents%2FEngineering%2FHTDC%2FQA%2F10%2E0%20HTDC%2FSV%5FVersion10%5FDemo%2Emp4&referrer=Teams%2ETEAMS%2DELECTRON&referrerScenario=p2p%5Fns%2Dbim&ga=1)
-
-## Video illustration of the above steps
-
-1) [demo](https://entrustdatacardcorp-my.sharepoint.com/personal/aakash_kaler_entrust_com/_layouts/15/stream.aspx?id=%2Fpersonal%2Faakash%5Fkaler%5Fentrust%5Fcom%2FDocuments%2FScreen%20Recording%201%2Ewebm&ga=1)
